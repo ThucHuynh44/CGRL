@@ -1,8 +1,8 @@
 # CGRL
 
-Official implementation of **CGRL: Concept-Guided Pruning and Representation Learning for Whole-Slide Image Classification**.
+**CGRL: Concept-Guided Pruning and Representation Learning for Whole-Slide Image Classification**.
 
-This repository accompanies our MAPR 2026 submission.
+
 
 ---
 
@@ -17,7 +17,7 @@ In this repository, CGRL is implemented with several MIL backbones:
 - `cgrl_trans_mil`
 - `cgrl_dsmil`
 
-The framework supports training on pre-extracted whole-slide image features and precomputed concept embeddings.
+
 
 ---
 
