@@ -93,7 +93,7 @@ models/
 Pretrained checkpoints can be downloaded from:
 
 ```text
-https://drive.google.com/drive/folders/1NaHEmRs1bDeiUEKapw4pBpepU0-pQ4Nw?usp=sharing
+https://drive.google.com/drive/folders/12CWcEZ2Tt4VX3kPwunzJQt4k32SMPp1N?usp=sharing
 ```
 
 After downloading, place the checkpoints in an appropriate directory, for example:
