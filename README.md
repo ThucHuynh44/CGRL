@@ -281,7 +281,7 @@ CUDA_VISIBLE_DEVICES=0 python main.py \
 
 ## Citation
 
-
+```bash
 @inproceedings{huynh2026cgrl,
   title={CGRL: Concept-Guided Pruning and Representation Learning for Whole-Slide Image Classification},
   author={Huynh, Thuc and Le, Tuan and Bui, Doanh C},
@@ -290,7 +290,7 @@ CUDA_VISIBLE_DEVICES=0 python main.py \
   year={2026},
   organization={IEEE}
 }
-
+```
 ---
 
 ## Contact
