@@ -282,6 +282,15 @@ CUDA_VISIBLE_DEVICES=0 python main.py \
 ## Citation
 
 
+@inproceedings{huynh2026cgrl,
+  title={CGRL: Concept-Guided Pruning and Representation Learning for Whole-Slide Image Classification},
+  author={Huynh, Thuc and Le, Tuan and Bui, Doanh C},
+  booktitle={2026 International Conference on Multimedia Analysis and Pattern Recognition (MAPR)},
+  pages={286--291},
+  year={2026},
+  organization={IEEE}
+}
+
 ---
 
 ## Contact
